@@ -1,1 +1,2 @@
-fgfrssf gtt
+total hoursrate= effort * hoursrate * resource
+future cost  hours * hoursrate
